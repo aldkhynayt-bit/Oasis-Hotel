@@ -1,0 +1,30 @@
+<!DOCTYPE html><html lang="ar" dir="rtl"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Rooms</title><link rel="stylesheet" href="style.css"></head><body>
+
+<header class="container">
+<div class="nav">
+<div class="logo">🏨</div>
+<nav>
+<a href="index.html">الرئيسية</a>
+<a href="Rooms.html">الغرف</a>
+<a href="Facilities.html">المرافق</a>
+<a href="Auth.html">تسجيل الدخول</a>
+<a href="Contact.html">تواصل معنا</a>
+</nav>
+</div>
+</header>
+
+<main class="container box">
+<h2 class="center">الغرف والأسعار</h2>
+<div class="rooms-grid">
+<div class="room-card"><img src="4ab9484d-edf1-4dc4-8a3d-69b7c808552d.jpeg" alt="غرفة فاخرة"><h3>غرفة فاخرة</h3></div>
+<div class="room-card"><img src="51ed40a5-2d4b-4b16-ba0f-a709712aabe2.jpeg" alt="غرفة ديلوكس"><h3>غرفة ديلوكس</h3></div>
+<div class="room-card"><img src="0015288c-ceaf-465d-b7a6-7d851ab71e56.jpeg" alt="جناح ملكي"><h3>جناح ملكي</h3></div>
+<div class="room-card"><img src="6404d8d7-ac8b-4ad4-b93b-8de262be28a6.jpeg" alt="جناح عائلي"><h3>جناح عائلي</h3></div>
+</div>
+</main>
+
+<footer class="container">
+<span>حقوق النشر محفوظة للفندق الملكي</span>
+<span class="small-social">&f&nbsp;&nbsp;©</span>
+</footer>
+</body></html>
